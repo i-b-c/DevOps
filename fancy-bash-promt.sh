@@ -188,7 +188,7 @@ bash_prompt() {
  fi
 
  ## CONFIGURATION: live
- if [ "$HOSTNAME" = giraff ]; then
+ if [ "$HOSTNAME" = live ]; then
   FONT_COLOR_2=$WHITE; BACKGROUND_2=$L_BLUE; TEXTEFFECT_2=$BOLD
   FONT_COLOR_3=$white; BACKGROUND_3=$D_BLUE; TEXTEFFECT_3=$BOLD
  fi
